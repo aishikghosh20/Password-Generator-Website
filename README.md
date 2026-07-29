@@ -28,7 +28,7 @@ A sleek, modern password generator built using **HTML, CSS, and JavaScript**. Ge
 
 ## 🚀 Live Demo
 
-[🔗 Link](https://aishikghosh20.github.io/Password-Generator-Website/)
+🔗 LINK : [click me](https://aishikghosh20.github.io/Password-Generator-Website/)
 
 ---
 
@@ -133,7 +133,7 @@ Feel free to fork the repository and submit a pull request.
 
 ## 📄 License
 
-This project is open-source and available under the MIT License.
+This project is open-source and available under the Apache 2.0 License.
 
 ---
 
