@@ -59,7 +59,7 @@ Passwords are generated randomly using JavaScript's `Math.random()` function fro
 
 ---
 
-## 📦 Installation
+## 📦 Cloning
 
 Clone the repository
 
