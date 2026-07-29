@@ -142,3 +142,27 @@ This project is open-source and available under the Apache 2.0 License.
 **Aishik Ghosh**
 
 GitHub: https://github.com/aishikghosh20
+
+---
+
+## 🙏 Acknowledgements & Attribution
+
+This project makes use of free assets provided by the following creators:
+
+### 🎥 Background Video
+- Source: [https://pixabay.com/videos/](https://pixabay.com/videos/veil-wave-wind-cloth-water-loop-66423/)
+- License: Pixabay Content License (Free for commercial and personal use)
+
+### 🖼️ Favicon
+- Source: [https://www.flaticon.com/](https://www.flaticon.com/free-icon/password_4438711?term=password&page=1&position=17&origin=search&related_id=4438711)
+- Icon by: [Smashicons](https://www.flaticon.com/authors/smashicons))
+- License: Flaticon Free License (Attribution required for free icons)
+
+### 💡 Inspiration
+The UI design was inspired by modern glassmorphism and cyberpunk/neon design trends, while the implementation was built from scratch using HTML, CSS, and JavaScript.
+
+---
+
+## 📄 Asset Licenses
+
+All third-party assets belong to their respective creators and are used in accordance with their licenses.
