@@ -84,6 +84,10 @@ height: 85%;
     font-size: clamp(0.8rem, 1.1rem, 1.2rem);
 }
 
+#resulttext{
+    font-family: 'Lucida Sans';
+}
+
 #result:hover{
     width: 73%;
     font-size: clamp(0.8rem, 1.2rem, 1.4rem);
@@ -349,6 +353,10 @@ height: 85%;
     font-size: clamp(1rem, 1.15rem, 1.3rem);
     box-shadow: 0 0 20px
     rgba(81, 30, 224, 0.5);
+}
+
+.toggletext{
+    font-family: 'Lucida Sans';
 }
 
 
