@@ -155,7 +155,7 @@ This project makes use of free assets provided by the following creators:
 
 ### 🖼️ Favicon
 - Source: [https://www.flaticon.com/](https://www.flaticon.com/free-icon/password_4438711?term=password&page=1&position=17&origin=search&related_id=4438711)
-- Icon by: [Smashicons](https://www.flaticon.com/authors/smashicons))
+- Icon by: [Smashicons](https://www.flaticon.com/authors/smashicons)
 - License: Flaticon Free License (Attribution required for free icons)
 
 ### 💡 Inspiration
