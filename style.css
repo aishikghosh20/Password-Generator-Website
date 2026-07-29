@@ -84,6 +84,10 @@ height: 85%;
     font-size: clamp(0.8rem, 1.1rem, 1.2rem);
 }
 
+#resulttext{
+    font-family: 'Lucida Sans';
+}
+
 #result:hover{
     width: 73%;
     font-size: clamp(0.8rem, 1.2rem, 1.4rem);
@@ -220,41 +224,6 @@ height: 85%;
 }
 
 
-@media (max-width: 600px) {
-    .toggletext{
-        font-weight: bold;
-        transform: translateY(0.4rem);
-
-        font-size: min(0.85em, 80%);
-    }
-    .checkbox{
-        transform: translateY(10%);
-    width: 30%;
-    height: 50%;
-    border-radius: 50%;
-}
-
-
-
-}
-@media (max-width: 424px) {
-    .toggletext{
-        font-weight: bold;
-        font-size: min(0.77em, 80%);
-        transform: translateY(0.5rem);
-
-    }
-    .checkbox{
-        transform: translateY(10%);
-    }
-}
-@media (max-width: 380px) {
-    .toggletext{
-        font-weight: bold;
-
-        font-size: min(0.75em, 80%);
-    }
-}
 
 
 #sliderbox{
@@ -352,6 +321,47 @@ height: 85%;
     align-items: left;
     transition: all 0.25s;
 }
+
+.toggletext{
+    font-family: 'Lucida Sans';
+}
+
+@media (max-width: 600px) {
+    .toggletext{
+        font-weight: bold;
+        transform: translateY(0.4rem);
+
+        font-size: min(0.85em, 80%);
+    }
+    .checkbox{
+        transform: translateY(10%);
+    width: 30%;
+    height: 50%;
+    border-radius: 50%;
+}
+
+
+
+}
+@media (max-width: 424px) {
+    .toggletext{
+        font-weight: bold;
+        font-size: min(0.77em, 80%);
+        transform: translateY(0.5rem);
+
+    }
+    .checkbox{
+        transform: translateY(10%);
+    }
+}
+@media (max-width: 380px) {
+    .toggletext{
+        font-weight: bold;
+
+        font-size: min(0.75em, 80%);
+    }
+}
+
 
 .checkboxes{
     background: rgba(7, 6, 44, 0.295);
