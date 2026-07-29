@@ -59,6 +59,8 @@ height: 85%;
     flex-wrap: wrap;
     justify-content: baseline;
     align-items: center;
+    font-family: 'Lucida Sans';
+
 }
 
 #result{
