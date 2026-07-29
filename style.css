@@ -86,7 +86,7 @@ height: 85%;
 
 #result:hover{
     width: 73%;
-    font-size: clamp(0.8rem, 1rem, 1.4rem);
+    font-size: clamp(0.8rem, 1.2rem, 1.4rem);
     box-shadow: 0 0 20px
     rgba(40, 4, 141, 0.422);
         padding-top: min(1.5em,8%);
