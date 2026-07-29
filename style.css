@@ -59,7 +59,7 @@ height: 85%;
     flex-wrap: wrap;
     justify-content: baseline;
     align-items: center;
-    font-family: 'Lucida Sans';
+    font-family: Verdana;
 
 }
 
@@ -72,7 +72,7 @@ height: 85%;
     border-radius: 15px;
     width: 70%;
     height: 14%;
-    font-family: 'Lucida Sans';
+    font-family: Verdana;
     padding-top: min(1.4em,7%);
     padding-left: min(2em,8%);
     padding-right: min(2em,8%);
@@ -87,7 +87,7 @@ height: 85%;
 }
 
 #resulttext{
-    font-family: 'Lucida Sans';
+    font-family:Verdana;
 }
 
 #result:hover{
@@ -237,7 +237,7 @@ height: 85%;
     border-radius: 15px;
     width: 70%;
     height: 13%;
-    font-family: 'Lucida Sans';
+    font-family: Verdana;
     padding-top: min(1.4em,8%);
     padding-left: min(2em,8%);
     padding-right: min(2em,8%);
@@ -313,7 +313,7 @@ height: 85%;
     border-radius: 15px;
     width: 70%;
     height: 50%;
-    font-family: 'Lucida Sans';
+    font-family: Verdana;
     padding-top: min(1.4em,8%);
     padding-left: min(2em,8%);
     padding-right: min(2em,8%);
@@ -332,7 +332,7 @@ height: 85%;
     border-radius: 15px;
     width: 90%;
     height: 17%;
-    font-family: 'Lucida Sans';
+    font-family: Verdana;
     padding-top: min(1.1em,5%);
     padding-left: min(2em,8%);
     padding-right: min(2em,8%);
@@ -358,7 +358,7 @@ height: 85%;
 }
 
 .toggletext{
-    font-family: 'Lucida Sans';
+    font-family: Verdana;
 }
 
 
@@ -407,7 +407,7 @@ input[type="checkbox"]{
     border-radius: 15px;
     width: 70%;
     height: 13%;
-    font-family: 'Lucida Sans';
+    font-family: Verdana;
     padding-top: min(1.4em,8%);
     padding-left: min(2em,8%);
     padding-right: min(2em,8%);
